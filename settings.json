@@ -1,0 +1,45 @@
+{
+  "header": {
+    "title_page": "rozdeniebogov8",
+    "name_company" : "Рождение богов",
+    "url_button": "https://www.youtube.com/watch?v=F1YZMyq3jwk",
+    "name_button": "ЧИТАТЬ БЕСПЛАТНО"
+  },
+  "text": {
+    "title": "РОЖДЕНИЕ БОГОВ",
+    "subtitle": "Попадание в Древнюю Грецию. Иллюстрированный роман",
+    "description": "Попаданец в Древнюю Грецию",
+    "full_description": "Когда-нибудь люди станут подобны богам. Они будут зажигать звезды и создавать новые миры. Но этот путь лишь предстоит пройти. Тысячи лет назад эти боги были наивны и глупы. «Рождение богов» – история человека, который должен сравняться с богами, чтобы спасти мир. Нож, арбалет, электронная книга… и гибель человечества через 2500 лет. А впереди ненависть, предательство и любовь. Эта книга про попаданца без «нагибаторства» и сверхспособностей. Древняя Греция, как она есть. С ошибками, неудачам и нелепыми совпадениями. Дорога длиною в тысячи лет начинается в Древних Афинах.\n\n\n20 000 читателей\nСвыше 160 000 часов чтения на сайте Автор.Тудей\nБолее 100 иллюстраций\nБесплатная аудиокнига и текст"
+    },
+  "graphic": {
+    "logo": "/home/anton/Загрузки/filesForTurboPage/mainIcon.png",
+    "path_photo1": "/home/anton/Загрузки/filesForTurboPage/mainPhoto.png",
+    "url_photo1": "https://www.youtube.com/watch?v=F1YZMyq3jwk",
+    "path_photo2": "/home/anton/Загрузки/filesForTurboPage/mainPhoto2.png",
+    "url_photo2": "https://www.youtube.com/watch?v=F1YZMyq3jwk"
+  },
+  "buttons": {
+    "button1_name": "ЧИТАТЬ БЕСПЛАТНО",
+    "button1_url": "https://author.today/reader/45969/1215615",
+    "button2_name": "СЛУШАТЬ БЕСПЛАТНО",
+    "button2_url": "https://www.youtube.com/watch?v=F1YZMyq3jwk"
+  },
+  "footer": {
+    "about_company": "Пишу фантастику. Верю в людей",
+    "name_company": "Алекс Кимен",
+    "menu_item_name": "Читать книгу",
+    "menu_item_url": "https://author.today/work/45969"
+  },
+  "social":{
+    "ok": "https://ok.ru/alexkimen",
+    "vk": "https://vk.com/alexkimen",
+    "telegram": "https://author.today/u/alexkimen/works",
+    "pinterest": "https://author.today/u/alexkimen/works",
+    "youtube": "https://www.youtube.com/channel/UCiBKAWT5EnMWLIDrZEEhV4g"
+  },
+  "content": {
+    "text_book": "https://author.today/reader/45969/1215615",
+    "text_book_main": "https://author.today/reader/45969",
+    "audio_book": "https://www.youtube.com/watch?v=F1YZMyq3jwk"
+  }
+}
